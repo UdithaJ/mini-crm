@@ -1,4 +1,4 @@
-##To Run the Project
+To Run the Project
 
 1) php artisan migrate
 2) php artisan db:seed
